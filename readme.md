@@ -10,17 +10,17 @@
 
 1. [Importando atalhos](./atalhosRhino/atalhosRhino.md)
 
-1. [Pontos e Curvas](./rhino_Aulas/CURVAS_2020.3dm)
+2. [Pontos e Curvas](./rhino_Aulas/rh_curvas/rh_curvas.md)
 
-1. [Superfícies e Sólidos](./rhino_Aulas/Srf_solidos.3dm)
+3. [Superfícies e Sólidos](./rhino_Aulas/rh_Srf_brep/rh_srf_brep.md)
 
-1. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects.3dm)
+4. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects.3dm)
 
-1. [Exercício Telhados](./rhino_Aulas/Telhados.3dm)
+5. [Exercício Telhados](./rhino_Aulas/Telhados.3dm)
 
-2. [Exercício Contornos](./rhino_Aulas/contornos.3dm)
+6. [Exercício Contornos](./rhino_Aulas/contornos.3dm)
 
-3. Referências e Links
+7. Referências e Links
 
     * [Tutorial Rhino Modelagem 3D em Portugues](https://www.youtube.com/watch?v=Tg36g5gJk-g&t=4s)
     * [Curso de rhinoceros em portugues](https://www.youtube.com/watch?v=7_maL5Sn8DU&list=PL2TS2Y8f7dOpxSQGn24FS5B5OMOyHphX4)
