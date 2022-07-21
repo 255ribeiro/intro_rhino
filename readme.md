@@ -6,7 +6,7 @@
 
 1. Modelagem 3D no Rhinoceros3D
 
-1. [Interface](./rhino_Aulas/rh_interface\interface.md)
+1. [Interface](./rhino_Aulas/rh_interface/rh_interface.md)
 
 1. [Importando atalhos](./atalhosRhino/atalhosRhino.md)
 
