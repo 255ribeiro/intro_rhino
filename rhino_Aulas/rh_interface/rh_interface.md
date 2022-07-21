@@ -3,7 +3,7 @@
 
 ## Principais elementos da interface
 
-![interface](./interface.jpg)
+![interface](./rh_interface.jpg)
 
 1. Main menu
 2. command line
