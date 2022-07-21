@@ -15,3 +15,15 @@
 8. Status bar
 9. Panels
 
+## Viewports
+
+Maximizando e minimizando Viewports
+
+![img](./rhino_vports.gif)
+
+
+## Viewports shading mode
+
+Mudando o modo de visualização de uma **Viewport**
+
+![img](./rhino_shading_mode.gif)
