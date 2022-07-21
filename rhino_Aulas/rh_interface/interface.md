@@ -17,13 +17,18 @@
 
 ## Viewports
 
-Maximizando e minimizando Viewports
+Maximizando e minimizando **Viewports**:
+
+- Duplo clique no título da **Viewport**
 
 ![img](./rhino_vports.gif)
 
 
 ## Viewports shading mode
 
-Mudando o modo de visualização de uma **Viewport**
+Mudando o modo de visualização de uma **Viewport**:
+
+- Clique simples na seta ao lado do título da **Viewport**.
+- Selecione modo de visualização adequado.
 
 ![img](./rhino_shading_mode.gif)
