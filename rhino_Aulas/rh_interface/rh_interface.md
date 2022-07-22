@@ -32,3 +32,24 @@ Mudando o modo de visualização de uma **Viewport**:
 - Selecione modo de visualização adequado.
 
 ![img](./rhino_shading_mode.gif)
+
+## Navigation
+
+## Launching commands
+
+## Precision
+
+### Coordinates
+
+1. Cartesian
+2. Polar
+
+#### Absolute
+
+``` 2.4,7.3,0 ``` 
+
+#### Relative
+
+``` @2.4,7.3,0 ``` 
+
+### snaps
