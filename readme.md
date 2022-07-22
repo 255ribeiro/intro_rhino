@@ -14,7 +14,7 @@
 
 4. [Superfícies e Sólidos](./rhino_Aulas/rh_Srf_brep/rh_srf_brep.md)
 
-5. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects.md/curves_from_objects.md)
+5. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects/curves_from_objects.md)
 
 6. [Exercício Telhados](./rhino_Aulas/telhados/telhados.md)
 
