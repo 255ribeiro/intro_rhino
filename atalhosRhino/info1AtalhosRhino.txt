@@ -112,3 +112,4 @@ cp cPlane
 ucs cPlane
 ws worksession
 cat catenary
+NewAlias1 Rotate3D
