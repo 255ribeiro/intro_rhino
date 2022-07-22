@@ -14,11 +14,11 @@
 
 4. [Superfícies e Sólidos](./rhino_Aulas/rh_Srf_brep/rh_srf_brep.md)
 
-5. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects.3dm)
+5. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects.md/curves_from_objects.md)
 
-6. [Exercício Telhados](./rhino_Aulas/Telhados.3dm)
+6. [Exercício Telhados](./rhino_Aulas/telhados/telhados.md)
 
-7. [Exercício Contornos](./rhino_Aulas/contornos.3dm)
+7. [Exercício Contornos](./rhino_Aulas/contornos/contornos.md)
 
 8. Referências e Links
 
@@ -62,11 +62,11 @@ ___
 
 1. Templates
 
-    * [Exemplo Template](./TEMPLETE_INFO01.3dm)
+    * [Arquivo Exemplo Template](./TEMPLETE_INFO01.3dm)
 
 1. modelagem de terrenos
 
-    * [Exercício Terrenos](./terreno_exemplos.zip)
+    * [Arquivo Exercício Terrenos](./terreno_exemplos.zip)
 
     * patch
 
