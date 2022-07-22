@@ -1,6 +1,5 @@
 # Adicionando pacotes de idioma no Rhinoceros 3D
 
-
 Para adicionar pacotes de idioma no Rhino 6 ou 7, siga os passos abaixo:
 
 1. No Windows abras as configurações (ou o painel de controle)
