@@ -33,23 +33,33 @@ Mudando o modo de visualização de uma **Viewport**:
 
 ![img](./rhino_shading_mode.gif)
 
-## Navigation
+## Navegação
 
-## Launching commands
+## Cahmada de comandos
 
-## Precision
+## Precisão
 
-### Coordinates
+### Sistemas de coordenaas
 
-1. Cartesian
+1. Cartesianas
+2. Polares
+
+#### Absoluta
+
+
+1. Cartesiana
+    ``` 2.4,7.3,0 ```
 2. Polar
+    ``` 3.7<30 ```
 
-#### Absolute
+#### Relativa
 
-``` 2.4,7.3,0 ``` 
+1. Cartesiana
+    ``` @2.4,7.3,0 ```
+2. Polar
+    ``` @3.7<30 ```
 
-#### Relative
+### Osnaps
 
-``` @2.4,7.3,0 ``` 
 
-### snaps
+### Gumball
