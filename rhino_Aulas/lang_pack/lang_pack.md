@@ -40,7 +40,7 @@ Para adicionar pacotes de idioma no Rhino 6 ou 7, siga os passos abaixo:
 
 
 
-2. Abra o Rhino, vá me Ferramentas -> opções -> aparência e selecione o pacote de língua que você baixou.
+2. Abra o Rhino, vá me **Ferramentas -> Opções -> Aparência** e selecione o pacote de língua que você baixou.
 
     ![img](https://wiki.mcneel.com/_media/rhino/6/addlanguages_changelanguage.png?cache=)
 

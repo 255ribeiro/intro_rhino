@@ -5,8 +5,8 @@
 
 ![interface](./interface.jpg)
 
-1. Main menu
-2. command line
+1. Main menu (menu principal)
+2. command line (linha de comando)
 3. Standard Toolbar Group
 4. Sidebar
 5. Viewports
