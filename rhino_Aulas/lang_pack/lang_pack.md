@@ -23,22 +23,22 @@ Para adicionar pacotes de idioma no Rhino 6 ou 7, siga os passos abaixo:
 
 1. Selecione a opção para modificar a instalação do Rhino
 
-1. Selecione a opção de idiomas
+1. Cliqueno botão **Selecionar idiomas**
 
-1. Selecione os idiomas que você quer instalar e clique em **Close**.
+1. Selecione o(s) idioma(s) que você quer instalar e clique em **Fechar**.
 
-1. Clique em **Install Now**. O instalador vai baixar os pacotes de idioma (é preciso ter conexão com internet ativa).
+1. Clique em **Instalar agora**. O instalador vai baixar os pacotes de idioma (é preciso ter conexão com internet ativa).
 
-    ![img](./modify_lang_pack_port.gif)
+    ![img](./modify_lang_pack.gif)
 
 
 2. Abra o Rhino, vá me **Ferramentas -> Opções**.
 
     ![img](./options.jpg)
 
-1. Na aba lateral de **Aparência**, selecione o idioma desejado e aperte ok
+3. Na aba lateral de **Aparência**, selecione o idioma desejado e aperte ok
 
 
     ![img](./aparencia.jpg)
 
-1. Reinicie o Rhinoceros para ativar as configurações.
+4. Reinicie o Rhinoceros para ativar as configurações.
