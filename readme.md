@@ -8,19 +8,19 @@
 
 1. [Interface](./rhino_Aulas/rh_interface/rh_interface.md)
 
-2. [Importando atalhos](./atalhosRhino/atalhosRhino.md)
+1. [Importando atalhos](./atalhosRhino/atalhosRhino.md)
 
-3. [Pontos e Curvas](./rhino_Aulas/rh_curvas/rh_curvas.md)
+1. [Pontos e Curvas](./rhino_Aulas/rh_curvas/rh_curvas.md)
 
-4. [Superfícies e Sólidos](./rhino_Aulas/rh_Srf_brep/rh_srf_brep.md)
+1. [Superfícies e Sólidos](./rhino_Aulas/rh_Srf_brep/rh_srf_brep.md)
 
-5. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects/curves_from_objects.md)
+1. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects/curves_from_objects.md)
 
-6. [Exercício Telhados](./rhino_Aulas/telhados/telhados.md)
+1. [Exercício Telhados](./rhino_Aulas/telhados/telhados.md)
 
-7. [Exercício Contornos](./rhino_Aulas/contornos/contornos.md)
+1. [Exercício Contornos](./rhino_Aulas/contornos/contornos.md)
 
-8. Referências e Links
+1. Referências e Links
 
     * [Tutorial Rhino Modelagem 3D em Portugues](https://www.youtube.com/watch?v=Tg36g5gJk-g&t=4s)
     * [Curso de rhinoceros em portugues](https://www.youtube.com/watch?v=7_maL5Sn8DU&list=PL2TS2Y8f7dOpxSQGn24FS5B5OMOyHphX4)
