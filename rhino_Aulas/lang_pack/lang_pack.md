@@ -41,4 +41,4 @@ Para adicionar pacotes de idioma no Rhino 6 ou 7, siga os passos abaixo:
 
     ![img](./aparencia.jpg)
 
-1. reinicie o Rhinoceros para ativar as configurações.
+1. Reinicie o Rhinoceros para ativar as configurações.
