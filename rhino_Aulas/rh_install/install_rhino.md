@@ -22,3 +22,7 @@ Siga as instruções no link abaixo para mudar a língua para inglês:
 
 <br>
 [Changing the language](https://wiki.mcneel.com/rhino/6/addlanguages)
+
+
+<br>
+[Mudando o idioma](../lang_pack/lang_pack.md)
