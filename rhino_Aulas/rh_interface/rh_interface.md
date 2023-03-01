@@ -33,7 +33,7 @@ Mudando o modo de visualização de uma **Viewport**:
 
 ![img](./rhino_shading_mode.gif)
 
-## Navegaç
+## Navegação
 
 ## Chamada de comandos
 
