@@ -33,9 +33,9 @@ Mudando o modo de visualização de uma **Viewport**:
 
 ![img](./rhino_shading_mode.gif)
 
-## Navegação
+## Navegaç
 
-## Cahmada de comandos
+## Chamada de comandos
 
 ## Precisão
 
