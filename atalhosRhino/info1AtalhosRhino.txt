@@ -112,4 +112,5 @@ cp _cPlane
 ucs _cPlane
 ws _worksession
 cat _catenary
-
+spo _solidPtOn
+o2 _orient

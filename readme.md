@@ -24,6 +24,7 @@
 
     * [Tutorial Rhino Modelagem 3D em Portugues](https://www.youtube.com/watch?v=Tg36g5gJk-g&t=4s)
     * [Curso de rhinoceros em portugues](https://www.youtube.com/watch?v=7_maL5Sn8DU&list=PL2TS2Y8f7dOpxSQGn24FS5B5OMOyHphX4)
+    * Video: [Progrmas que arquitetos devem conhecer](https://www.youtube.com/watch?v=1DDoQgcBmAk&t=262s)
 
 ___
 
