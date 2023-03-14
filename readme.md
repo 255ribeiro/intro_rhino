@@ -54,6 +54,8 @@ ___
 
         * Loft (LO)
 
+1. Exercício [Carmen Portinho](./rhino_Aulas/exercicio_casa_c_portinho/Casa_Carmen_Portinho_Reidy.zip)
+
 1. Referências e Links
 
 ___
