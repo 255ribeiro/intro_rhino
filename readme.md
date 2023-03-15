@@ -108,8 +108,8 @@ ___
 
 1. Render Básico
 
-    * Modos de render(vizualização)
-    * Materiáis - Cores (diffuse)
+    * Modos de render(visualização)
+    * Materiais - Cores (diffuse)
     * Configuração de ambiente
         * Iluminação global
         * Grownd
