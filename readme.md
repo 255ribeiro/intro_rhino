@@ -70,7 +70,7 @@ ___
 
     * [Arquivo Exemplo Template](./TEMPLETE_INFO01.3dm)
 
-1. modelagem de terrenos
+1. Modelagem de terrenos
 
     * [Arquivo Exercício Terrenos](./terreno_exemplos.zip)
 
@@ -85,6 +85,7 @@ ___
     1. Transformando Superfícies em sólidos
 
 1. Referências e Links
+
     * [Vídeo de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
 
     * [Comando Patch vídeo 01](https://www.youtube.com/watch?v=nrizjM3v3Kw)
