@@ -98,9 +98,9 @@ ___
 1. Modelagem Paramétrica
 
     * implicity History
-    * [Grasshopper](./grasshopper_intro/gh_intro.md)
+    * [Grasshopper](https://255ribeiro.github.io/introducao_a_modelagem_parametrica/)
 
-1. Referências e Links
+2. Referências e Links
 
 ___
 
