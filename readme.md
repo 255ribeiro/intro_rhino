@@ -68,23 +68,23 @@ ___
 
 1. Templates
 
-    * [Arquivo Exemplo Template](./TEMPLETE_INFO01.3dm)
+    * [Arquivo Exemplo Template](./rhino_assets/rhino_template/TEMPLETE_INFO_01.3dm)
 
-1. Modelagem de terrenos
+2. Modelagem de terrenos
 
     * [Arquivo Exercício Terrenos](./terreno_exemplos.zip)
 
     * patch
 
-1. Rebuild curve e surface
+3. Rebuild curve e surface
 
     1. Modelagem por Pontos de controle
 
-    1. Simetria
+    2. Simetria
 
-    1. Transformando Superfícies em sólidos
+    3. Transformando Superfícies em sólidos
 
-1. Referências e Links
+4. Referências e Links
 
     * [Vídeo de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
 
