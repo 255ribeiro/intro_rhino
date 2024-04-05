@@ -72,8 +72,7 @@ ___
 
 2. Modelagem de terrenos
 
-    * [Arquivo Exercício Terrenos](./terreno_exemplos.zip)
-
+    * [Arquivo Exercício Terrenos](./rhino_assets/terreno/terreno_exemplos.zip)
     * patch
 
 3. Rebuild curve e surface
