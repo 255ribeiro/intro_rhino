@@ -146,3 +146,12 @@ ___
 Entrega dos trabalhos
 
 1. Referências e Links
+
+___
+
+### Material adicional
+
+[VisualArq](rhino_Aulas/recomenda/visualarq.md)
+
+___
+___
