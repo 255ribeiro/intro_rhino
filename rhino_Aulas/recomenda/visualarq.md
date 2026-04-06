@@ -6,6 +6,10 @@
 
 [Site oficial](https://www.visualarq.com/)
 
+### Canal no youTube
+
+[https://www.youtube.com/@VisualARQ](https://www.youtube.com/@VisualARQ)
+
 ### Tutoriais
 
 [Webinar: VisualARQ for Residential Architecture](https://www.youtube.com/watch?v=UT45s6Uxsgk)
