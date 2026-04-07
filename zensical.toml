@@ -20,6 +20,17 @@ Copyright &copy; 2026 The authors
 
 nav = [
   {"Home" = "index.md" },
+  {"Instalação" = "rhino_Aulas/rh_install/install_rhino.md"},
+  {"Interface" = "rhino_Aulas/rh_interface/rh_interface.md"},
+  {"Atalhos" = "atalhosRhino/atalhosRhino.md"},
+  {Curvas = "rhino_Aulas/rh_curvas/rh_curvas.md"},
+  {"Suprefícies e Sóldos" = "rhino_Aulas/rh_Srf_brep/rh_srf_brep.md"},
+  {"Curvas a partir de superfícies e sólidos" = "rhino_Aulas/curves_from_objects/curves_from_objects.md"},
+  {"Exercício Telhados" = "rhino_Aulas/telhados/telhados.md"},
+  {"Exercício Contornos" = "rhino_Aulas/contornos/contornos.md"},
+#   {"Próximos Passos" = ""},
+
+
   
 ]
 
