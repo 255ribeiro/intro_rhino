@@ -1,5 +1,5 @@
 ---
-icon: lucide/rocket
+icon: lucide/rotate-3d
 ---
 
 # Modelagem no Rhinoceros 3D e Grasshopper
