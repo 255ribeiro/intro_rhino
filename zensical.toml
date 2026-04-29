@@ -37,6 +37,8 @@ nav = [
 [project.theme]
 variant = "classic"
 language = "pt-BR"
+logo = "images/rhino-icon.svg"
+
 
 
 features = [
