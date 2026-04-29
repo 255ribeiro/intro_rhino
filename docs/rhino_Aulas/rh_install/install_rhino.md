@@ -1,3 +1,7 @@
+---
+icon: lucide/hard-drive-download
+---
+
 # Instalação
 
 1. Vá para o site [Rhino3D](https://www.rhino3d.com). 
