@@ -42,7 +42,7 @@ custom_dir = "overrides"
 
 
 features = [
-    # "announce.dismiss",                  # allows users to dismiss the announcement bar
+    # "announce.dismiss",                # allows users to dismiss the announcement bar
     # "content.action.view",             # adds a button to view the page source
     # "content.action.edit",             # adds a button to edit the page in the repo
     "content.code.annotate",             # enables annotations inside code blocks
