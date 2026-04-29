@@ -71,8 +71,6 @@ features = [
     "content.footnote.tooltips"                  # moves TOC into the left navigation sidebar
 ]
 
-[project.theme.icon]
-logo = "lucide/box"
 
 # Palette toggle for automatic mode
 [[project.theme.palette]]
